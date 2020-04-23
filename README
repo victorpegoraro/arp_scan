@@ -10,3 +10,10 @@ LIBS:
 scapy
 
 optparse
+
+-----------------------------------------------
+USAGE:
+
+Enter IP address or IP range EX: 192.168.0.1/24
+
+cmd: python arp.py -t [ip target]
